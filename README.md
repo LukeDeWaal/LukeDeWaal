@@ -1,6 +1,6 @@
 ### Luke de Waal
 
-I'm Luke de Waal and I am currently a dual master student @ [![TU Delft](icons/tudelft_icon.png)](https://www.tudelft.nl/) studying:
+I'm Luke de Waal and I am currently a dual master student @ [![TU Delft](icons/tudelft_icon.png=250x250)](https://www.tudelft.nl/) studying:
 - Aerospace Engineering: Simulation & Control
 - Embedded Systems: Software & Networking
 
