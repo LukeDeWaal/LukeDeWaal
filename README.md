@@ -15,3 +15,8 @@ Other Programming Languages I know:
 - Java
 - Matlab
 
+I am also familiar with:
+- VHDL
+- LaTeX
+- HTML
+- Bash
