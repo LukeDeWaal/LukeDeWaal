@@ -5,18 +5,18 @@ I'm Luke de Waal and I am currently a dual master student at [TU Delft](https://
 - Embedded Systems: Software & Networking
 
 My Programming Languages of choice are:
-- Python
-- C
-- C++
+- <a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="14" /></a>  Python
+- <a href="https://www.python.org/" title="C"><img src="icons/c.png" width="14" /></a> C
+- <a href="https://www.python.org/" title="C++"><img src="icons/cpp.png" width="14" /></a> C++
 
 Other Programming Languages I know:
-- Nim
-- Go
-- Java
-- Matlab
+- <a href="https://www.python.org/" title="Python"><img src="icons/nim.png" width="14" /></a> Nim
+- <a href="https://www.python.org/" title="Python"><img src="icons/golang.png" width="14" /></a> Go
+- <a href="https://www.python.org/" title="Python"><img src="icons/java.png" width="14" /></a> Java
+- <a href="https://www.python.org/" title="Python"><img src="icons/matlab.png" width="14" /></a> Matlab
 
 I am also familiar with:
-- VHDL
+- <a href="https://www.python.org/" title="Python"><img src="icons/vhdl.png" width="14" /></a> VHDL
 - LaTeX
 - HTML
 - Bash
