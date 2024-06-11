@@ -1,8 +1,8 @@
 ### Luke de Waal
 
-I'm Luke de Waal and I am currently a dual master student at [TU Delft](https://www.tudelft.nl/) <a href="https://www.tudelft.nl/" title="TU Delft"><img src="icons/tudelft_icon.png" width="16" /></a> studying:
-- Aerospace Engineering: Simulation & Control
-- Embedded Systems: Software & Networking
+I'm Luke de Waal and I am currently a dual master graduate from [TU Delft](https://www.tudelft.nl/) <a href="https://www.tudelft.nl/" title="TU Delft"><img src="icons/tudelft_icon.png" width="16" /></a> who studied:
+- MSc. Aerospace Engineering: Simulation & Control
+- MSc. Embedded Systems: Software & Networking
 
 My Programming Languages of choice are:
 - <a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="16" /></a>  Python
