@@ -1,6 +1,6 @@
 ### Luke de Waal
 
-I'm Luke de Waal and I am currently junior embedded software engineer and dual master graduate from [TU Delft](https://www.tudelft.nl/) <a href="https://www.tudelft.nl/" title="TU Delft"><img src="icons/tudelft_icon.png" width="16" /></a>:
+I'm Luke de Waal and I am currently an Embedded Software Engineer at [QBlox](https://www.qblox.com/) and dual master graduate from [TU Delft](https://www.tudelft.nl/) <a href="https://www.tudelft.nl/" title="TU Delft"><img src="icons/tudelft_icon.png" width="16" /></a>:
 - MSc. Aerospace Engineering: Simulation & Control
 - MSc. Embedded Systems: Software & Networking
 
